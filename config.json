@@ -1,0 +1,28 @@
+{
+    "guild": {
+        "id": "guild_id",
+        "status": {
+            "id": "channel_id",
+            "active": "yes",
+            "everyone": "yes",
+            "role": ""
+        },
+        "messages": {
+            "color": "#ff0000",
+            "auto_destroy": "yes",
+            "destroy_time": "10"
+        }
+    },
+    "server": {
+        "name": "FiveServer",
+        "ip": "127.0.0.1:30120",
+        "cfxre_url": "https://cfx.re/join/example"
+    },
+
+    "bot": {
+        "token": "bot_token",
+        "name": "FiveBot",
+        "client_id": "bot_client_id",
+        "prefix": "!"
+    }
+}
