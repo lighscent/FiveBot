@@ -4,9 +4,13 @@
   "description": "A discord bot for Fivem Server",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
   "author": "https://github.com/Azukiov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azukiov/FiveBot"
+  },
   "license": "MIT",
   "dependencies": {
     "discord.js": "^13.8.1",
